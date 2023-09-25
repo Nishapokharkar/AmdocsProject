@@ -16,10 +16,17 @@ Main Program Flow
 The program begins with a menu that allows you to choose from various options:
 
 Enter the employee details: Allows you to add a new employee with various validations.
+
 Enter the record to delete: Allows you to delete an employee record by their ID.
+
 Display the details: Displays the details of all employees.
+
 Enter the details to update:Allows you to update deatils such as name,dob,address and salary.
+
 Enter the details to search:Allows you to search ny Employee id,name,department name
+
 Display the details with highest salary:Display the details of employee with highesht salary.
+
 Display the details with lowest salary:Display the details of employee with lowest salary.
+
 EXIT
