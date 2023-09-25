@@ -23,7 +23,7 @@ def isNameValid(name):
 
     for i in l:
 
-        if  i.isalpha() and i.title():
+        if  i.isalpha() and i.istitle():
 
              return True
 
