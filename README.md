@@ -12,7 +12,7 @@ DisplayEmployee: A class method in the Employee class that displays all employee
 Validation Functions:
 The program includes several validation functions to ensure the accuracy of user inputs. These functions include checking for valid IDs, names, salaries, dates, and more.
 
-Main Program Flow
+Main Program Flow:
 The program begins with a menu that allows you to choose from various options:
 
 Enter the employee details: Allows you to add a new employee with various validations.
